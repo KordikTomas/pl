@@ -8,4 +8,4 @@
 
 # Poznaň
 
-[Hotel Wloski Italia Boutique](https://www.google.com/maps/place/Dolna+Wilda+8,+61-552+Pozna%C5%84,+Polsko/@52.3976159,16.9215532,17z/data=!3m1!4b1!4m6!3m5!1s0x47045b24a58c7703:0x266d2abd341d78d3!8m2!3d52.3976127!4d16.9264241!16s%2Fg%2F11ltcqz_lf?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D)
+[Hotel Wloski Italia Boutique](https://www.google.com/maps/place/Dolna+Wilda+8,+61-552+Pozna%C5%84,+Polsko/@52.3976159,16.9238492,17z/data=!3m1!4b1!4m6!3m5!1s0x47045b24a58c7703:0x266d2abd341d78d3!8m2!3d52.3976127!4d16.9264241!16s%2Fg%2F11ltcqz_lf?entry=ttu&g_ep=EgoyMDI1MDcxNS4xIKXMDSoASAFQAw%3D%3D)
