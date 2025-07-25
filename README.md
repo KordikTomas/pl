@@ -12,4 +12,4 @@
 
 # Zpoplatněné úseky
 
-https://www.tolls.eu/cs/polsko
+https://www.tolls.eu/cs/polsko (pozor A2 u Poznaně)
